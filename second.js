@@ -1,1 +1,1 @@
-ffhffhhfh
+var name ('samson')
